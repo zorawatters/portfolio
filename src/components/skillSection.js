@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import cloud from '../img/cloud.png';
 
 export default class SkillItem extends Component {
     constructor(props) {

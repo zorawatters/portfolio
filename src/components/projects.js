@@ -3,8 +3,8 @@ import ProjectCard from "./projectCard";
 import calitrees from '../img/calitrees.png'
 import firetrees from '../img/firetrees.png'
 import trees from '../img/trees.png'
-import light from '../img/light.png'
-import loon from '../img/loon.png'
+// import light from '../img/light.png'
+// import loon from '../img/loon.png'
 
 export default class Projects extends Component {
     render() {

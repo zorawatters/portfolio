@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link, animateScroll as scroll } from 'react-scroll';
 import NavItem from "./navItem";
 
 export default class Nav extends Component {
