@@ -20,7 +20,7 @@ export default class ProjectCard extends Component {
         return (
             <div className = "box">
                 <div className = "img-Box">
-                    <img src = {this.state.img} alt= "image" />
+                    <img src = {this.state.img} alt= "background" />
                 </div>
                 <div className = "card-content">
                     <div>
