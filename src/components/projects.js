@@ -17,7 +17,7 @@ export default class Projects extends Component {
                         < ProjectCard 
                             name = "DeepStock" 
                             tools = "python | flask | GCP | mongoDB | twitter API"
-                            desc = "A group project for Big Data Architecture that blends daily stock data and twitter sentiment so users can predict how to inverst in their favorite tech companies."
+                            desc = "A group project for Big Data Architecture that blends daily stock data and twitter sentiment so users can predict how to invest in their favorite tech companies."
                             link = "https://github.com/CUBigDataClass/DeepStock"
                             img = {calitrees}
                         />
