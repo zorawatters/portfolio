@@ -29,7 +29,7 @@ export default class About extends Component {
                             with an emphasis in creative technologies. More projects to come soon, so look out.
                         </p>
                         <p>
-                            <a href="linkedin"> linkedin </a> <a href = "github"> github </a> <a href = "email"> email </a>
+                            <a href="https://www.linkedin.com/in/zora-watters/" target="_blank"> linkedin </a> <a href = "https://github.com/zorawatters" target="_blank"> github </a> <a href = "mailto:zorawatters@gmail.com" target="_blank">  email </a>
                         </p>
                     </div>
                     < Skills />

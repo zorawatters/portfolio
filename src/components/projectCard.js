@@ -28,7 +28,7 @@ export default class ProjectCard extends Component {
                         <h5> {this.state.tools} </h5>
                         <p> {this.state.desc} </p>
                         <div className = "links">
-                            <a href={this.state.link}>See on Github</a>
+                            <a href={this.state.link} target="_blank">See on Github</a>
                         </div>
                     </div>
                 </div>

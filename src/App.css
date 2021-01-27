@@ -262,7 +262,7 @@ nav ul li:hover {
 }
 
 .project-content .box:hover .card-content a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
